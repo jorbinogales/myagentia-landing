@@ -1,0 +1,13 @@
+POST https://api.venice.ai/api/v1/chat/completions
+Content-Type: application/json
+Authorization: Bearer mULBf79njkjvVvC-tKZISsdamlwZIyaI7jMB5kGFqP
+
+{
+    "model": "dolphin-2.9.2-qwen2-72b",
+    "messages": [
+        {
+            "role": "user",
+            "content": ""
+        }
+    ]
+}
