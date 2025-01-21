@@ -39,7 +39,7 @@ export default function RootLayout({ children }) {
         <div id="chatbot-widget">
             <iframe
                 id="chatbot-frame"
-                src="hhttps://chatbot.myagentia.com/" 
+                src="https://chatbot.myagentia.com/" 
             >
             </iframe>
         </div>   
